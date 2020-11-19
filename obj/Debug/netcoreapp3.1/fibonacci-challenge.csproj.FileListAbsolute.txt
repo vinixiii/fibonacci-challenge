@@ -1,0 +1,13 @@
+C:\Users\vinixiii\Desktop\fibonacci-challenge\obj\Debug\netcoreapp3.1\fibonacci-challenge.csprojAssemblyReference.cache
+C:\Users\vinixiii\Desktop\fibonacci-challenge\obj\Debug\netcoreapp3.1\fibonacci-challenge.AssemblyInfoInputs.cache
+C:\Users\vinixiii\Desktop\fibonacci-challenge\obj\Debug\netcoreapp3.1\fibonacci-challenge.AssemblyInfo.cs
+C:\Users\vinixiii\Desktop\fibonacci-challenge\obj\Debug\netcoreapp3.1\fibonacci-challenge.csproj.CoreCompileInputs.cache
+C:\Users\vinixiii\Desktop\fibonacci-challenge\bin\Debug\netcoreapp3.1\fibonacci-challenge.exe
+C:\Users\vinixiii\Desktop\fibonacci-challenge\bin\Debug\netcoreapp3.1\fibonacci-challenge.deps.json
+C:\Users\vinixiii\Desktop\fibonacci-challenge\bin\Debug\netcoreapp3.1\fibonacci-challenge.runtimeconfig.json
+C:\Users\vinixiii\Desktop\fibonacci-challenge\bin\Debug\netcoreapp3.1\fibonacci-challenge.runtimeconfig.dev.json
+C:\Users\vinixiii\Desktop\fibonacci-challenge\bin\Debug\netcoreapp3.1\fibonacci-challenge.dll
+C:\Users\vinixiii\Desktop\fibonacci-challenge\bin\Debug\netcoreapp3.1\fibonacci-challenge.pdb
+C:\Users\vinixiii\Desktop\fibonacci-challenge\obj\Debug\netcoreapp3.1\fibonacci-challenge.dll
+C:\Users\vinixiii\Desktop\fibonacci-challenge\obj\Debug\netcoreapp3.1\fibonacci-challenge.pdb
+C:\Users\vinixiii\Desktop\fibonacci-challenge\obj\Debug\netcoreapp3.1\fibonacci-challenge.genruntimeconfig.cache
